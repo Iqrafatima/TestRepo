@@ -1,0 +1,9 @@
+2021-10-22 11:40:25,017 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\New_Project\TestRepo\GitDemo\pom.xml
+2021-10-22 11:40:26,369 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SampleProjectDemo:GitDemo:0.0.1-SNAPSHOT @ D:\New_Project\TestRepo\GitDemo\pom.xml.
+2021-10-22 11:40:27,333 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo/src/main/java
+2021-10-22 11:40:27,343 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo/src/test/java
+2021-10-22 11:40:28,453 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2021-10-22 11:40:29,347 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-22 11:40:29,347 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New_Project\TestRepo\GitDemo\src\main\resources
+2021-10-22 11:40:29,353 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-22 11:40:29,353 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New_Project\TestRepo\GitDemo\src\test\resources
